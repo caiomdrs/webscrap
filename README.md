@@ -1,2 +1,3 @@
-# webscrap
-Projeto de WebScrapping utilizando Python 3.9
+Projeto de WebScraping
+
+Extrai informações do site e, em seguida, organiza informações em uma planilha.
